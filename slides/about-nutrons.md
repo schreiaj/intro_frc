@@ -1,4 +1,4 @@
-##  About Nutrons
+##  About NUTRONs
 
 - Founded in 1998
 - Partnership between Textron and NEU
