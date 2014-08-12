@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Introduction to FRC",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "schreiaj",
+    "githubRepository": "intro_frc"
+  }
+}
